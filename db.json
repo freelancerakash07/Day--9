@@ -1,0 +1,313 @@
+{
+
+    "student" : [
+        {
+            "name"     : "Akash",
+            "roll"     : 1,
+            "class"    : "Ten",
+            "age"      : 16,
+            "gender"   : "Male",
+            "skil"     : "javascript",
+            "location" : "Manikgonj",
+            "number"   : "01819522713"
+        },
+        {
+            "name"     : "Sabbir",
+            "roll"     : 2,
+            "class"    : "Nine",
+            "age"      : 20,
+            "gender"   : "Male",
+            "skil"     : "Wordpess",
+            "location" : "Mirpur",
+            "number"   : "01815428574"
+        },
+        {
+            "name"     : "Rex",
+            "roll"     : 3,
+            "class"    : "Eight",
+            "age"      : 25,
+            "gender"   : "Male",
+            "skil"     : "Iso",
+            "location" : "Uttora",
+            "number"   : "01819522724"
+        },
+        {
+            "name"     : "Raja",
+            "roll"     : 4,
+            "class"    : "Seven",
+            "age"      : 12,
+            "gender"   : "Male",
+            "skil"     : "Laravel",
+            "location" : "Noroshondi",
+            "number"   : "01819522524"
+        },
+        {
+            "name"     : "Zoynul",
+            "roll"     : 5,
+            "class"    : "Ten",
+            "age"      : 30,
+            "gender"   : "Male",
+            "skil"     : "javascript",
+            "location" : "Mirpur",
+            "number"   : "01819522524"
+        },
+        {
+            "name"     : "Rifat",
+            "roll"     : 6,
+            "class"    : "Seven",
+            "age"      : 25,
+            "gender"   : "Male",
+            "skil"     : "Wordpess",
+            "location" : "Manikgonj",
+            "number"   : "01819522254"
+        },
+        {
+            "name"     : "Achem",
+            "roll"     : 7,
+            "class"    : "Ten",
+            "age"      : 25,
+            "gender"   : "Male",
+            "skil"     : "Laravel",
+            "location" : "Mirpur",
+            "number"   : "01819522236"
+        },
+        {
+            "name"     : "Sajal",
+            "roll"     : 8,
+            "class"    : "Eight",
+            "age"      : 13,
+            "gender"   : "Male",
+            "skil"     : "Jango",
+            "location" : "Sever",
+            "number"   : "01819522856"
+        },
+        {
+            "name"     : "Abu Taher",
+            "roll"     : 9,
+            "class"    : "Nine",
+            "age"      : 20,
+            "gender"   : "Male",
+            "skil"     : "javascript",
+            "location" : "Dhaka",
+            "number"   : "01819522154"
+        },
+        {
+            "name"     : "Anik",
+            "roll"     : 10,
+            "class"    : "Ten",
+            "age"      : 32,
+            "gender"   : "Male",
+            "skil"     : "Laravel",
+            "location" : "Dhaka",
+            "number"   : "01815222713"
+        },
+        {
+            "name"     : "Aysha",
+            "roll"     : 11,
+            "class"    : "Nine",
+            "age"      : 16,
+            "gender"   : "Female",
+            "skil"     : "Laravel",
+            "location" : "Mirpur",
+            "number"   : "01819585713"
+        },
+        {
+            "name"     : "Shanta",
+            "roll"     : 12,
+            "class"    : "Eight",
+            "age"      : 14,
+            "gender"   : "Female",
+            "skil"     : "javascript",
+            "location" : "Manikgonj",
+            "number"   : "01774034414"
+        },
+        {
+            "name"     : "Sumi",
+            "roll"     : 13,
+            "class"    : "Six",
+            "age"      : 17,
+            "gender"   : "Female",
+            "skil"     : "Jango",
+            "location" : "Uttora",
+            "number"   : "01819859713"
+        },
+        {
+            "name"     : "Asa",
+            "roll"     : 14,
+            "class"    : "Seven",
+            "age"      : 19,
+            "gender"   : "Female",
+            "skil"     : "Wordpess",
+            "location" : "Manikgonj",
+            "number"   : "01819522253"
+        },
+        {
+            "name"     : "Shato",
+            "roll"     : 15,
+            "class"    : "Nine",
+            "age"      : 20,
+            "gender"   : "Female",
+            "skil"     : "Laravel",
+            "location" : "Dhaka",
+            "number"   : "01719522713"
+        },
+        {
+            "name"     : "Shomaya",
+            "roll"     : 16,
+            "class"    : "Ten",
+            "age"      : 18,
+            "gender"   : "Female",
+            "skil"     : "Iso",
+            "location" : "Uttora",
+            "number"   : "01825522713"
+        },
+        {
+            "name"     : "Poly",
+            "roll"     : 17,
+            "class"    : "Ten",
+            "age"      : 26,
+            "gender"   : "Female",
+            "skil"     : "Jango",
+            "location" : "Gazipur",
+            "number"   : "01819652713"
+        },
+        {
+            "name"     : "Mim",
+            "roll"     : 13,
+            "class"    : "Eight",
+            "age"      : 18,
+            "gender"   : "Female",
+            "skil"     : "javascript",
+            "location" : "Dhaka",
+            "number"   : "01825522713"
+        },
+        {
+            "name"     : "Mitu",
+            "roll"     : 18,
+            "class"    : "Six",
+            "age"      : 12,
+            "gender"   : "Female",
+            "skil"     : "Iso",
+            "location" : "Manikgonj",
+            "number"   : "01819522713"
+        },
+        {
+            "name"     : "Riya",
+            "roll"     : 19,
+            "class"    : "Nine",
+            "age"      : 16,
+            "gender"   : "Female",
+            "skil"     : "Laravel",
+            "location" : "Manikgonj",
+            "number"   : "01819522513"
+        },
+        {
+            "name"     : "Rokeya",
+            "roll"     : 20,
+            "class"    : "Ten",
+            "age"      : 15,
+            "gender"   : "Female",
+            "skil"     : "Iso",
+            "location" : "Manikgonj",
+            "number"   : "01819522893"
+        }
+    ],
+
+
+
+
+
+
+
+    "teacher" : [
+        {
+            "name"     : "Asraful Hug",     
+            "age"      : 15,
+            "gender"   : "Male",
+            "skil"     : "Iso",
+            "location" : "Mirpur",
+            "number"   : "01819522893"
+        },
+        {
+            "name"     : "Zillur Rahman",     
+            "age"      : 20,
+            "gender"   : "Male",
+            "skil"     : "Javascript",
+            "location" : "Dhaka",
+            "number"   : "01818522893"
+        },
+        {
+            "name"     : "Achem",     
+            "age"      : 22,
+            "gender"   : "Male",
+            "skil"     : "Laravel",
+            "location" : "Uttora",
+            "number"   : "01819529593"
+        },
+        {
+            "name"     : "Abu Said",     
+            "age"      : 30,
+            "gender"   : "Male",
+            "skil"     : "Jango",
+            "location" : "Manikgonj",
+            "number"   : "01819522023"
+        },
+        {
+            "name"     : "Nur Amin",     
+            "age"      : 35,
+            "gender"   : "Male",
+            "skil"     : "Javascript",
+            "location" : "Dhaka",
+            "number"   : "01819522013"
+        },
+        {
+            "name"     : "Shanta",     
+            "age"      : 15,
+            "gender"   : "Female",
+            "skil"     : "Iso",
+            "location" : "Manikgonj",
+            "number"   : "01819142893"
+        },
+        {
+            "name"     : "Poly",     
+            "age"      : 18,
+            "gender"   : "Female",
+            "skil"     : "Jango",
+            "location" : "Uttora",
+            "number"   : "01819522803"
+        },
+        {
+            "name"     : "Mim",     
+            "age"      : 32,
+            "gender"   : "Female",
+            "skil"     : "Laravel",
+            "location" : "Dhaka",
+            "number"   : "01819520193"
+        },
+        {
+            "name"     : "Mitu",     
+            "age"      : 20,
+            "gender"   : "Female",
+            "skil"     : "Jango",
+            "location" : "Dhaka",
+            "number"   : "01819542893"
+        },
+        {
+            "name"     : "Sheto",     
+            "age"      : 25,
+            "gender"   : "Female",
+            "skil"     : "Jango",
+            "location" : "Manikgoj",
+            "number"   : "01819252893"
+        }
+    ]
+
+    
+    
+}
+
+
+
+
+
+
